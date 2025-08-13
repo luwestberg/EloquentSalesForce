@@ -1,5 +1,5 @@
 {
-  "name": "lukas-westberg/eloquent-sales-force",
+  "name": "lukaswestberg/eloquent-sales-force",
   "description": "An eloquent model data source for Salesforce",
   "license": "MIT",
   "keywords": [
